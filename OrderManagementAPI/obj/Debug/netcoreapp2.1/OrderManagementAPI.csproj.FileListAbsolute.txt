@@ -1,0 +1,14 @@
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.RazorAssemblyInfo.cache
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\bin\Debug\netcoreapp2.1\OrderManagementAPI.deps.json
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\bin\Debug\netcoreapp2.1\OrderManagementAPI.runtimeconfig.json
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\bin\Debug\netcoreapp2.1\OrderManagementAPI.runtimeconfig.dev.json
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\bin\Debug\netcoreapp2.1\OrderManagementAPI.dll
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\bin\Debug\netcoreapp2.1\OrderManagementAPI.pdb
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.RazorAssemblyInfo.cs
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.AssemblyInfoInputs.cache
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.AssemblyInfo.cs
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.RazorTargetAssemblyInfo.cache
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.dll
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.pdb
+C:\Users\SAURABH\source\repos\OrderManagementAPI\OrderManagementAPI\obj\Debug\netcoreapp2.1\OrderManagementAPI.csprojAssemblyReference.cache

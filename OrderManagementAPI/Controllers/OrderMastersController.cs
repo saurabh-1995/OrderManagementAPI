@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OrderManagementAPI.Models;
+using Newtonsoft.Json;
 
 namespace OrderManagementAPI.Controllers
 {
@@ -85,17 +86,19 @@ namespace OrderManagementAPI.Controllers
 
         // POST: api/OrderMasters
         [HttpPost]
-        public async Task<IActionResult> PostOrderMaster([FromBody] OrderMaster orderMaster)
+        public async Task<IActionResult> PostOrderMaster([FromBody] IEnumerable<OrderMaster> orderMaster)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-
-            _context.OrderMaster.Add(orderMaster);
+            foreach (var item in orderMaster)
+            {
+                _context.OrderMaster.Add(item);
+            }
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetOrderMaster", new { id = orderMaster.OrderId }, orderMaster);
+            return CreatedAtAction("GetOrderMaster", new {  }, orderMaster);
         }
 
         // DELETE: api/OrderMasters/5
